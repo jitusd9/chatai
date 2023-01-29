@@ -1,0 +1,32 @@
+/* .home{
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  margin-inline: auto;
+  background-color: rgb(52, 49, 64);
+  padding: 1rem;
+  text-align: center;
+  border-radius: 0.4rem;
+} */
+
+.home h1{
+  color: var(--theme);
+  text-shadow: 0 8px 3px rgba(0, 0, 0, 0.2);
+}
+
+
+.message{
+  width: 300px;
+  margin-inline: auto;
+  text-align: center;
+  word-wrap: break-word;
+  font-family: 'Caveat', cursive;
+  color: white;
+  font-size: 1.2rem;
+}
+
+
+.message .hl{
+  color: var(--col1);
+}
+
